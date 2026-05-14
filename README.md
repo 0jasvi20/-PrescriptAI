@@ -218,18 +218,6 @@ PrescriptAI is a research prototype for educational purposes. It is **not** a me
 
 ---
 
-## 👩‍💻 Author
-
-**Ojasvi** | B.Tech Final Year | 2025–26
-
----
-
-## 📄 License
-
-MIT License — free for academic and research use.
-
----
-
 ## 🙏 Acknowledgements
 
 - [Kaggle — Illegible Medical Prescription Images Dataset](https://www.kaggle.com/datasets/mehaksingal/illegible-medical-prescription-images-dataset)
