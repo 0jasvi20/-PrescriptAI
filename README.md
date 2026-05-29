@@ -1,3 +1,5 @@
+
+
 # 💊 PrescriptAI
 
 > Multimodal AI system that reads handwritten Indian prescriptions, identifies drugs, checks for dangerous combinations, and explains everything in plain English.
@@ -14,7 +16,8 @@
 
 ## 🚀 Demo
 
-![PrescriptAI Demo](assets/demo.png)
+<img width="1470" height="883" alt="Screenshot 2026-05-29 at 4 41 09 PM" src="https://github.com/user-attachments/assets/3bd6e3d6-19bc-4c74-b7cc-e21194d886e9" />
+
 
 Upload a prescription photo → AI reads it → explains in plain English → checks for dangerous drug combinations → reads aloud via TTS.
 
