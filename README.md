@@ -18,8 +18,11 @@
 
 <img width="1470" height="883" alt="Screenshot 2026-05-29 at 4 41 09 PM" src="https://github.com/user-attachments/assets/3bd6e3d6-19bc-4c74-b7cc-e21194d886e9" />
 
+<img width="1470" height="887" alt="Screenshot 2026-05-29 at 4 39 59 PM" src="https://github.com/user-attachments/assets/80cd350c-dd94-4ab4-b928-a103fd3fc844" />
 
-Upload a prescription photo → AI reads it → explains in plain English → checks for dangerous drug combinations → reads aloud via TTS.
+<img width="1470" height="882" alt="Screenshot 2026-05-29 at 4 39 13 PM" src="https://github.com/user-attachments/assets/f5c9aec4-7ad0-448a-9c91-442ea89cc24c" />
+
+<img width="1470" height="884" alt="Screenshot 2026-05-29 at 4 37 00 PM" src="https://github.com/user-attachments/assets/8e32fb8e-7b58-4f44-8289-24b32ac110f0" />
 
 ---
 
